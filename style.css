@@ -3,3 +3,16 @@ html {
     width: 100%;
   }
   
+  h1 {
+    color:green;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-weight: 100;
+  }
+  .azul {
+    color:blue;
+    
+  }
+
+  #red {
+    color:red
+  }
